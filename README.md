@@ -22,4 +22,4 @@ A simple React app to manage products. Users can view, filter by category, add, 
 
 # Live Demo
 
-- Check out the live demo here: [Product Page Demo](https://product-page-amber.vercel.app/)
+- Check out the live demo here: [Product Page Demo](https://product-page-eight-ivory.vercel.app/)
